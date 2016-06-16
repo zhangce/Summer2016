@@ -18,3 +18,9 @@ There has been efforts that try to use LSH to speed up SVM or deep learning mode
 We will end up doing importance sampling for other loss I guess. In this case, you do not uniformly sample SGD, instead, has some prior distribution.
 
   - https://arxiv.org/abs/1401.2753
+
+# Concept Drift
+
+  - https://arxiv.org/pdf/1504.01044.pdf
+  - https://arxiv.org/pdf/1010.4784.pdf
+  - http://www.win.tue.nl/~mpechen/publications/pubs/Gama_ACMCS_AdaptationCD_accepted.pdf
